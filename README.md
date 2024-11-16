@@ -19,7 +19,7 @@
 - 🌱 Learning **Artificial Intelligence** 
 - 💬 Ask me about **JavaScript, TypeScript, Java, PHP, Dart**
 - ⚡ Fun fact: **I love coding and learning new technologies**
-- 🌐 Visit my portfolio: [https://silendas.github.io/silendas/](https://silendas.github.io/silendas/)
+- 🌐 Visit my portfolio: [https://silendas.github.io](https://silendas.github.io)
 
 ## 🔥 My Stats
 <div align="center">
