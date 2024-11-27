@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&width=435&lines=Hello+World!+I%27m+Silendas;Welcome+to+my+GitHub+Profile!;I%27m+a+Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <div style="display: inline-block; border-radius: 15px; overflow: hidden; border: 2px solid #000; padding: 10px; background-color: #fff;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!+I%27m+Silendas;Welcome+to+my+GitHub+Profile!;I%27m+a+Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </div>
 </div>
+
 
 
 <div align="left">
