@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hello+World!+I%27m+Silendas;Welcome+to+my+GitHub+Profile!;I%27m+a+Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=000000&width=435&lines=Hello+World!+I%27m+Silendas;Welcome+to+my+GitHub+Profile!;I%27m+a+Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/myasminnh/" target="_blank">
