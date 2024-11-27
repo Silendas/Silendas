@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" background="#fff">
   <div style="display: inline-block; border-radius: 15px; overflow: hidden; border: 2px solid #fff; padding: 10px; background-color: #fff; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!+I%27m+Silendas;Welcome+to+my+GitHub+Profile!;I%27m+a+Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
   </div>
