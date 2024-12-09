@@ -2,8 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+World!+I%27m+Silendas;Welcome+to+my+GitHub+Profile!;I%27m+a+Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-
-<div align="left">
+<div>
+  <a href="https://www.tiktok.com/@nulhakim213" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>  
   <a href="https://www.linkedin.com/in/myasminnh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
