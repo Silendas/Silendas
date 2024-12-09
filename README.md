@@ -18,7 +18,7 @@
 </div>
 
 ## 👨‍💻 About Me
-- 🔭 Working on **Web and Service API Development**
+- 🔭 Working on **Fullstack Web Development**
 - 🌱 Learning **Artificial Intelligence** 
 - 💬 Ask me about **JavaScript, TypeScript, Java, PHP, Dart**
 - ⚡ Fun fact: **I love coding and learning new technologies**
